@@ -17,7 +17,7 @@ namespace RaceTrack.RaceTrack.Drivers
         }
         public override void Drive()
         {
-            Console.WriteLine($"{Name} throws it in gear. 5 seconds late. Yup, Flying Through The Air. This Is Not Good. ");
+            Console.WriteLine($"{Name} throws it in gear. 5 seconds later... Yup, Flying Through The Air. This Is Not Good. ");
         }
     }
 }
